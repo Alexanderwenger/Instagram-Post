@@ -1,0 +1,68 @@
+body{
+	background-color:black;
+	margin: auto;
+}
+
+
+.post{
+	background: white;
+}
+
+.container{
+	
+	padding-top: 60px;
+	width: 600px;
+	margin: auto;
+}
+
+#subcontainer{
+    display: flex;
+ }
+.container h2{
+    display: inherit;
+    padding: 8px;
+
+	margin: 0;
+}
+.container img{
+	
+	width: 100%;
+
+}
+.fa-heart{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.fa-comment{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.fa-paper-plane{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.fa-bookmark{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+    padding-left: 400px;
+}
+.fa-ellipsis-vertical{
+    font-size: 30px;
+    display: flex;
+}
+#ellipsis{
+    display: flex;
+    padding-top: 9px;
+    padding-left: 435px;
+}
+h2{
+    font-size: 15px;
+}
+.fa-html5{
+    font-size: 27px;
+
+}
